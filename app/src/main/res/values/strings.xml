@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ArrayList</string>
+    <string name="apple">apple</string>
+    <string name="banana">banana</string>
+    <string name="cherry">cherry</string>
+    <string name="results">Hello World!</string>
+</resources>
